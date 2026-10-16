@@ -1,0 +1,30 @@
+[
+    { 
+        "id": 1,
+        "name": "Michelin Pilot Sport 5",
+        "season": "Летние", 
+        "price": 14500,
+        "image": "/image/mc5.png"
+    },
+    { 
+        "id": 2, 
+        "name": "Nokian Hakkapeliitta 10p", 
+        "season": "Зимние", 
+        "price": 11200,
+        "image": "/image/nh10p.png"
+    },
+    {
+        "id": 3, 
+        "name": "Continental IceContact 3", 
+        "season": "Зимние", 
+        "price": 18900,
+        "image": "/image/ci3.png" 
+    },
+    { 
+        "id": 4, 
+        "name": "Hankook Ventus Prime 4", 
+        "season": "Летние", 
+        "price": 8700,
+        "image": "/image/hvp4.png" 
+    }
+]
